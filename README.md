@@ -2,7 +2,7 @@
 
 <img align="right" src="https://www.codewars.com/users/freestyletime/badges/large" />
 
-- 🌱 I’m currently learning at an ordinary university in Europe
+- 🌱 I’m doing the master program.
 - 📫 How to reach me: mailchristianchen@gmail.com
 - 🏹 Focusing on Java & Python
 - 💪 sport guy
