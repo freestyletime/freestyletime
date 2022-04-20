@@ -2,7 +2,6 @@
 
 <img align="right" src="https://www.codewars.com/users/freestyletime/badges/large" />
 
-- 🌱 I’m doing the master program.
-- 📫 How to reach me: mailchristianchen@gmail.com
-- 🏹 Focusing on Java & Python
-- 💪 sport guy
+- 🌱 I’m a postgraduate in Ireland
+- 🚩 Aim to be a Java software engineer
+- 💪 Like sports, video games, and travels
