@@ -5,3 +5,4 @@
 - 🌱 I’m a postgraduate in Ireland
 - 🚩 Aim to be a Java software engineer
 - 💪 Like sports, video games, and travels
+- 🤝 [More about me](https://freestyletime.github.io/)
