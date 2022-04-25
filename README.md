@@ -2,7 +2,7 @@
 
 <img align="right" src="https://www.codewars.com/users/freestyletime/badges/large" />
 
-- 🌱 I’m a postgraduate in Ireland
-- 🚩 Aim to be a Java software engineer
+- 🌱 A postgraduate in Ireland
+- 🚩 Less ideas, more actions
 - 💪 Like sports, video games, and travels
 - 🤝 [More about me](https://freestyletime.github.io/)
