@@ -5,4 +5,3 @@
 - 🌱 A postgraduate in Ireland
 - 🚩 Less ideas, more actions
 - 💪 Like sports, video games, and travels
-- 🤝 [More about me](https://freestyletime.github.io/)
